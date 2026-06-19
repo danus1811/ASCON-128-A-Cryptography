@@ -14,3 +14,8 @@ full sign-off cleanliness, with zero connectivity, design rule, and timing viola
 confirming that the design is phys- ically realizable, timing-clean, and ready for silicon 
 fabrication. Overall, the proposed SoC provides a robust and scalable solution suitable for 
 secure embedded and IoT applications.
+
+Project Team Members :
+1. Danus D
+2. Kanthi Ram A
+3. Pradeh Kumar M
