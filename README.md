@@ -13,4 +13,4 @@ implementations for both en- cryption and decryption. Post-layout results demons
 full sign-off cleanliness, with zero connectivity, design rule, and timing violations, 
 confirming that the design is phys- ically realizable, timing-clean, and ready for silicon 
 fabrication. Overall, the proposed SoC provides a robust and scalable solution suitable for 
-secure embedded and IoT ap- plications.
+secure embedded and IoT applications.
